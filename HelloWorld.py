@@ -1,6 +1,6 @@
 import random
+("Hello World")
 
-print("Hello World")
-
-r=random.randint(1,100)
+r=
+printrandom.randint(1,100)
 print(r)
